@@ -1,0 +1,62 @@
+Kotlin --> statically typed language
+
+var value = 10
+
+value = "Data"
+
+
+JetBrains --> Kotlin -->Intellij,  Android studio 
+
+
+platform indepent
+
+--> .java -->java compiler --> .class(bytecode) --> jvm (java virtual machine) --> machine code
+
+
+--> .kt --> kotlin compiler --> kotlinbytecode --> jvm --> machine code
+
+machine code --> binary form , location stored, bits work 
+
+bytecode --> intermediate code
+
+Kotlin Features:
+
+1. Platform indepenent
+2. open source --> freely available, source code, modification, redistribute
+3. better exception handling --
+4. automatic garbage collection --> Garbage collector
+5. infix functions
+6. lambda's
+
+
+1. identifier --> which is used to identify
+
+name of class, variable or method or constant are identifier.
+ 
+
+2. variables --> 
+
+3. datatypes --> float, string , int
+
+	--> primitive --> built-in --> with c and c++ lang
+	int, float, char, double, long
+
+	--> non-primitive or reference type --> eg --> 
+	String, Integer, Float, Long, etc
+
+	int value = 10; // primitive
+	Integer obj = new Integer(10);	// reference
+
+3. Reference type
+ 
+4. keywords - var --> value can be changed either compile or runtime
+
+5. final variable or constant variable --> 
+
+	val --> final variable declaration
+
+-------------------------------------------------------------------------
+
+Decision Making statements
+
+// two values or three values	
