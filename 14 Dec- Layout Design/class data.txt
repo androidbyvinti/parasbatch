@@ -1,0 +1,59 @@
+API --> Application Programming Interface -->package -->internal classes and interface
+
+2 things -->
+
+target no. of users -->choose minimum API level
+App Features to provide latest feature --> Highest API level
+--> 10-15 Kitkat
+--> 5-8 Lollipop
+
+
+
+
+class Activity
+
+Layout ---> Parent class --> ViewController
+
+ConstraintLayout : ViewController()
+
+
+
+ViewController -->Layout-->  you can handle multiple views at the same time or simultaneously and it can deal with other viewcontroller as well
+
+-->Layout --> Button, radio button, etc , Layout--> widgets
+
+--> ConstraintLayout --> its most flexible layout available -->more no. of attributes
+
+--> RelativeLayout --> drag and drop
+--> relative position of parent and of other child elements --> check the position of parent and other widgets on the screen
+
+by default --> 0, 0 --> Top --> 0 and Left --> 0
+
+
+
+
+
+--> layout height or layout width --> 
+1. match_parent
+2. wrap_content
+3. Hardcoded value
+
+
+View --> View is a Parent class for all these widgets
+it can deal with only single view at a time and no nested view can be used
+
+ 	button --> it is a view
+	radiobutton --> it is a view
+	textview --> it is view
+
+EditText
+
+
+
+
+
+
+
+
+
+
