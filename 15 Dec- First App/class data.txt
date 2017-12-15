@@ -1,0 +1,35 @@
+Run app on Device:
+
+https://developer.android.com/studio/run/oem-usb.html#InstallingDriver
+
+manifest --> android os --> manifest --> app name, app icon, app screens, app theme, app style, 
+
+static permission --> personal data is not fetched with this permission. WiFi, Bluetooth, 
+
+before marshmallow
+
+dynamic permission --> personal data may be fetched -->
+camera access throw an exception --> SecurityException 
+
+
+coding work --> inside java folder
+
+non-coding work or all resources of app --> res directory
+
+image, color, mp3, mp4, animation, gif, etc
+
+
+
+drawable --> images, animation, custom styles, etc.
+vector --> 
+
+layout -->all front end files
+
+mipmap --> android app icon -->
+
+values --> colors, string, margins and padding and textsize
+
+all code --> manifest and kotlin and resources -->gradle(Build tool) --> into single apk
+
+Maven 
+Ant
