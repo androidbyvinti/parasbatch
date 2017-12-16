@@ -1,0 +1,15 @@
+RelativeLayout
+advantage-->
+
+--> no. of attributes are very large 
+--> easy drag and drop
+--> Front end is complex --> its better to use relativelayout
+--> avoid nested layout
+
+
+--> disadv
+--> it depends upon the relative position of parent and other child elements. 
+
+----------------------------------------------------------
+
+LinearLayout--> in a particular order either horizontal or either vertical
