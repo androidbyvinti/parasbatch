@@ -1,0 +1,20 @@
+orientation --> vertical or horizontal
+
+
+default orientation - horizontal
+
+<LinearLayout--></LinearLayout
+
+Intent --> switch from one activity to another activity, data sharing between multiple activities, 
+predefined services --> bluetooth or wifi or camera access.
+
+2 types of intent
+
+--> implicit intent --> outside the application
+
+--> when you want to communicate or pass data outside your application then use implicit intent.
+
+
+--> explicit intent --> inside the application
+--> work inside the application--> predefiend service or data communication between activities or switch between activities
+
