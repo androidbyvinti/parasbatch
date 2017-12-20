@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="cText">C</string>
+    <string name="next">Next</string>
+
+    <string-array name="CQuestions">
+        <item>Who invented C Language?</item>
+        <item>What is used for printing is C?</item>
+        <item>What is the extension of header file?</item>
+        <item>What is the working of clrscr()?</item>
+        <item>From where getch() is inherited?</item>
+    </string-array>
+
+    <string-array name="COptions">
+        <item>Dennis Ritchie</item>
+        <item>James Gosling</item>
+        <item>Jet Brains</item>
+        <item>Andy Rubin</item>
+        <item>cin</item>
+        <item>cout</item>
+        <item>printf</item>
+        <item>out</item>
+        <item>.hr</item>
+        <item>.h</item>
+        <item>.hd</item>
+        <item>.hf</item>
+        <item>To clear screen</item>
+        <item>To clear output only</item>
+        <item>To clear input only</item>
+        <item>None of above</item>
+        <item>inside stdio.h</item>
+        <item>inside conio.h</item>
+        <item>inside math.h</item>
+        <item>inside string.h</item>
+    </string-array>
+
+    <string-array name="CAnswers">
+        <item>Dennis Ritchie</item>
+        <item>printf</item>
+        <item>.h</item>
+        <item>To clear screen</item>
+        <item>inside conio.h</item>
+    </string-array>
+
+</resources>
